@@ -33,4 +33,4 @@ Build full-stack web applications using React and Firebase.
 Implement user authentication and real-time data management.
 Create a responsive and user-friendly interface.
 Work with third-party APIs and libraries.
-Feel free to explore the code and consider it as a sample of my technical skills and problem-solving abiliti
+Feel free to explore the code and consider it as a sample of my technical skills and problem-solving abilities
