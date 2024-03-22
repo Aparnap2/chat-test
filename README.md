@@ -38,9 +38,7 @@ Use code with caution.
 #### Create a .env file in the project root directory.
 
 Add your Firebase project configuration details to the .env file. You can find these details in the Firebase console for your project.
-Example .env file:```REACT_APP_API_KEY=your_api_key
-REACT_APP_AUTH_DOMAIN=your_auth_domain
-REACT_APP_PROJECT_ID=your_project_id```
+
  
  ### Added project ID
   ```REACT_APP_STORAGE_BUCKET=your_storage_bucket ```
